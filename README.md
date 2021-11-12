@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:fceabb,100:f8b500&height=200&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=45&fontColor=333&fontAlignY=40&animation=fadeIn)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:fceabb,100:f8b500&height=180&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=45&fontColor=333&fontAlignY=35&animation=fadeIn)
 
 ## Personal Info
 - Lee Jeonga
@@ -29,7 +27,5 @@
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:lja3248@gmail.com)](mailto:lja3248@gmail.com)
 
-<br />
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=70&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=70&section=footer&fontSize=30)
 
