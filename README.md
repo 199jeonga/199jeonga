@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:fceabb,100:f8b500&height=180&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=45&fontColor=333&fontAlignY=35&animation=fadeIn)
 
 ## Personal Info
-- Lee Jeonga
+4년동안 디자이너로 근무를 하며 개발자들과의 잦은 접점으로 코딩에 대한 관심이 생겼습니다. 웹 디자인 기능사 자격증을 준비하며 단순한 흥미에서 시작한 코딩에 도전할 확신을 얻었고, 현재는 프론트엔드 개발자가 되기 위해 공부하고 있습니다.
+
+웹접근성을 지키는 시멘틱 코드에 관심이 많으며 누구나 이해하기 쉬운 코드를 짜기 위해 노력하고 있습니다.
+
+부족한 기술들을 갈고닦아 보완하는 것은 물론 기술 뿐만이 아닌 협업에 있어서도 믿을 수 있는 팀원이 되기 위해 노력하겠습니다.
+
 <br />
 
 
@@ -19,13 +24,10 @@
 <br />
 
 
-## portfolio
-- [Portfolio is in preparation!](#)
+## INTRODUCE
+- [click, Introduce link](https://narrow-nectarine-b14.notion.site/INTRODUCE-7849b212511a45a7a0579adc05a4dbb9)
 <br />
 
 
 ## Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:lja3248@gmail.com)](mailto:lja3248@gmail.com)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=70&section=footer&fontSize=30)
-
