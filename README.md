@@ -13,7 +13,9 @@
 
 👉  [click, Introduce link](https://narrow-nectarine-b14.notion.site/INTRODUCE-7849b212511a45a7a0579adc05a4dbb9)
 
-👉 [click, TIL notion link](https://narrow-nectarine-b14.notion.site/EZEN-TIL-6fb4032692a24bfab96d2b0c18c79cbb)
+👉 [click, TIL notion link - EZEN computer academy](https://narrow-nectarine-b14.notion.site/EZEN-TIL-6fb4032692a24bfab96d2b0c18c79cbb)
+
+👉 [click, TIL notion link - Personal study](https://narrow-nectarine-b14.notion.site/DEVELOPER-STUDY-45ac27a4671c45bdac3616af485043af)
 
 <br />
 
