@@ -14,6 +14,22 @@
 
 <br />
 
+### PERSONAL PROJECT
+
+👉 [click, 문학동네 리뉴얼](https://munhakdongne-renewal.vercel.app/www/html/main_v2.html)
+
+👉 [click, 탐라는 전기차 클론](https://tamraev-clone.vercel.app/)
+
+👉 [click, JS - todo list](https://199jeonga.github.io/)
+
+👉 [click, React Movie web ](https://199jeonga.github.io/react-moive-challenge/)
+
+<br />
+
+### TEAM PROJECT
+
+<br />
+
 ### Primary Tech Stacks
 
 - <b>FrontEnd</b> : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/react-222222?style=flat-square&logo=react&logoColor=61dafb"/>
