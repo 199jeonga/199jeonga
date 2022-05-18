@@ -16,13 +16,13 @@
 
 ### PERSONAL PROJECT
 
-👉 [click, 문학동네 리뉴얼](https://munhakdongne-renewal.vercel.app/www/html/main_v2.html)
+👉 [click, 문학동네 리뉴얼](https://github.com/199jeonga/munhakdongne_renewal)
 
-👉 [click, 탐라는 전기차 클론](https://tamraev-clone.vercel.app/)
+👉 [click, 탐라는 전기차 클론](https://github.com/199jeonga/tamraev_clone)
 
-👉 [click, JS - todo list](https://199jeonga.github.io/)
+👉 [click, JS - todo list](https://github.com/199jeonga/199jeonga.github.io)
 
-👉 [click, React Movie web ](https://199jeonga.github.io/react-moive-challenge/)
+👉 [click, React Movie web ](https://github.com/199jeonga/react-moive-challenge)
 
 <br />
 
